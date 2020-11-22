@@ -1,6 +1,6 @@
-//I have only use c language and only using stdio.h and conio.h\
-//Game is supportable linux and Windows\ 
-//Follow instruction.
+/*I have only use c language and only using stdio.h and conio.h
+Game is supportable linux and Windows 
+Follow instruction.*\
 #include<stdio.h>
 #if windows
 #include<conio.h>
