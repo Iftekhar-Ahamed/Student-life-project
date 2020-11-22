@@ -1,0 +1,15 @@
+Asalamualikum...
+Bismillah.......
+
+First You Have to enter Player's name.
+Enter cell position number:
+Example:
+1,1   1,2   1,3
+2,1   2,2   2,3
+3,1   3,2   3,3
+Have a good day.
+
+If you have any suggestion:
+Find me in facebook: https://www.facebook.com/iftekharahamedsiddiquee/
+Have a good day.........
+/*Iftekhar Ahamed Siddiquee*\
