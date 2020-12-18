@@ -1,0 +1,6 @@
+Asalamulam.
+set data file following steps...
+id-name-present,assignment,mid,presention,final.
+Programme will calculate total number gpa and save save.txt.
+Read file will be read.txt and set file project folder.
+My first coding.
