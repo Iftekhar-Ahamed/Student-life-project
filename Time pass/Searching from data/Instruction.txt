@@ -1,0 +1,11 @@
+Asalamualikum user:
+
+Windows user :-
+erase 7-17 line.
+include<conio.h>
+
+Linux user:
+Keep source code what i have done.
+linux have no conio.h so we need 7-17 line code.
+
+Thank you (Iftekhar Ahamed Siddiquee)
